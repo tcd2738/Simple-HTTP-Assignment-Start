@@ -1,0 +1,21 @@
+{
+  "name": "simple-http",
+  "version": "1.0.0",
+  "description": "simple http assignment",
+  "main": "./src/server.js",
+  "scripts": {
+    "start": "node ./src/server.js",
+    "pretest": "eslint ./src --fix",
+    "test": "echo \"Tests Complete\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tcd2738/Simple-HTTP-Assignment-Start.git"
+  },
+  "author": "tcd2738",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tcd2738/Simple-HTTP-Assignment-Start/issues"
+  },
+  "homepage": "https://github.com/tcd2738/Simple-HTTP-Assignment-Start#readme"
+}
